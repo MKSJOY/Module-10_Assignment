@@ -1,0 +1,32 @@
+body{
+      font-family: Arial, sans-serif;
+      background: lightskyblue;
+    }
+.header{
+      background-color: black;
+      color: chocolate;
+      padding: 20px;
+      text-align: center;
+    }
+.content{
+      padding: 20px;
+    }
+.content h2{
+    font-weight: bold;
+    color: chocolate;
+}
+.content p {
+        text-align: justify;
+        font-weight: bold;
+        max-width: 500px;
+      }
+.footer{
+      background-color: black;
+      color: chocolate;
+      padding: 10px 10px;
+      text-align: center;
+      position: absolute;
+      bottom: 0;
+      width: 85%;
+    }
+  
